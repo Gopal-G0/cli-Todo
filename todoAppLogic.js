@@ -3,7 +3,6 @@ const program = new Command();
 const fs = require("fs");
 const path = './todos.json';
 
-console.log("Application Started");
 let todos = [];
 
 function readTodo() {
