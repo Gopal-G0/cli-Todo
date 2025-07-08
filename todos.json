@@ -2,5 +2,13 @@
   {
     "task": "complete backend lecture",
     "priority": "high"
+  },
+  {
+    "task": "go to sleep early",
+    "priority": "low"
+  },
+  {
+    "task": "complete 2 DSA Lectures by 8PM",
+    "priority": "high"
   }
 ]

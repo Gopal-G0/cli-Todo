@@ -55,5 +55,10 @@ program
         }
     });
 
+program 
+    .command('delete <taskName>')
+    .description('Delete the specific task')
+    .action()
+
 
 program.parse(process.argv);
